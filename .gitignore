@@ -45,3 +45,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/.vs/BinaryTree/v14
+/BinaryTree/bin/Debug
+/BinaryTree/obj/Debug
